@@ -24,7 +24,7 @@ Professional portfolio website built with modern web technologies.
 ## Deployment
 
 This portfolio is deployed on GitHub Pages:
-[https://yourusername.github.io](https://Cryptori.github.io)
+[https://Cryptori.github.io](https://Cryptori.github.io)
 
 ## Local Development
 
@@ -35,3 +35,4 @@ This portfolio is deployed on GitHub Pages:
 ## License
 
 MIT License - feel free to use this template for your own portfolio!
+
