@@ -24,7 +24,7 @@ Professional portfolio website built with modern web technologies.
 ## Deployment
 
 This portfolio is deployed on GitHub Pages:
-[https://Cryptori.github.io](https://Cryptori.github.io)
+[https://Cryptori.github.io](https://cryptori.github.io)
 
 ## Local Development
 
